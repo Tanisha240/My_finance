@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+*.db
+*.log
+github_credentials.json
+.DS_Store
